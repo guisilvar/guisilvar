@@ -1,4 +1,4 @@
-## Hi! I´m Guilherme Rodrigues da Silva, programming student.
+## Hi! I'm Guilherme Rodrigues da Silva, programming student.
 
 - I course Informatics for Internet at ETEC Fernando Prestes
 - I'm studying HTML, CSS and Javascript
